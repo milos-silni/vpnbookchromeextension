@@ -6,7 +6,7 @@ Installing
 --
 https://developer.chrome.com/extensions/getstarted
 
-Using Metasploit
+Using
 --
 Just click on extension and new openbook password will be copied to clipboard
 
